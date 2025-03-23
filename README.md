@@ -1,4 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Priya Patil</h1>
+
+## 🚀 Passionate about harnessing Data Science ,ML and AI to drive innovation 💡.
+
+🚀 MS in Data Science, University at Buffalo.
+
+🔥 Passionate about learning, experimenting, and pushing AI & data science boundaries.
+
+🤖 Exploring Generative AI, NLP & Deep Learning; always adapting and evolving.
+
+💡 Skilled in Python, SQL, AWS, Statistical Modeling & ML algorithms.
+
+💬 Open to collaborations, discussions & exciting AI opportunities.
+
 
 <!--
 **Priyapatil1612/Priyapatil1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
