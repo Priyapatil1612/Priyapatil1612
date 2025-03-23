@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Priya Patil</h1>
+<h1 align="center"><b>Hi 👋, I'm Priya Patil</b></h1>
 
-## 🚀 Passionate about harnessing Data Science ,ML and AI to drive innovation 💡.
+<h3 align="center">🚀 Passionate about harnessing Data Science ,ML and AI to drive innovation 💡</h3>
 
 🚀 MS in Data Science, University at Buffalo.
 
