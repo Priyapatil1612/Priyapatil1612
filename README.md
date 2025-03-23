@@ -2,6 +2,8 @@
 
 <h3 align="center">🚀 Passionate about harnessing Data Science ,ML and AI to drive innovation 💡</h3>
 
+<img align="right" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="300" />
+
 🚀 MS in Data Science, University at Buffalo.
 
 🔥 Passionate about learning, experimenting, and pushing AI & data science boundaries.
